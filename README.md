@@ -94,7 +94,6 @@ Below is the result of UrlScan of giovascuss.com. We can see its IP Address, loc
 <h1>In Conclusion</h2>
 As a Security Analysis,when you receive a ticket of Phishing Email from employees, it is always important to use various available tools necessary to drill down the email and identify all the suspicious or malicious activites. You can also use malware sandbboxes to analyze attachments if any to identify the behaviour of a malware
 
-
 </p>
 
 <!--
